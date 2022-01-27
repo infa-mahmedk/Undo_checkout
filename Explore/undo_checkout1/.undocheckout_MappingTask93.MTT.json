@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "gQQiNYwX7aYdCSgvq9zAIs",
-    "name" : "undocheckout_MappingTask11",
+    "id" : "9sF3AXW0h8miLRu0qDMJI8",
+    "name" : "undocheckout_MappingTask93",
     "type" : "MTT",
     "metadata" : {
       "modelVersion" : {
@@ -9,14 +9,14 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "014EAH0Z00000000000C"
+        "repoHandle" : "014EAH0Z000000000030"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "mapping task description",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
