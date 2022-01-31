@@ -16,7 +16,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "mapping task description",
+        "description" : "mapping task description updated",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -55,10 +55,7 @@
       "repoInfo" : {
         "repoHandle" : "014EAH1700000000000A"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "",
         "contentType" : "JSON",
